@@ -6,7 +6,7 @@ This project is a two-part exploration of food datasets, combining structured nu
 
 ## Part 1: Nutrient Dashboard with Streamlit
 
-`app.py`, this interactive app allows you to:
+`sensor_data_exploration.py`, this interactive app allows you to:
 
 - Load and explore USDA Food and Nutrient Database data (CSV) (https://fdc.nal.usda.gov/)
 - Analyze nutrient values across various food ingredients
